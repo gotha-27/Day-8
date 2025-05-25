@@ -1,0 +1,15 @@
+class Flower {
+    public static void main (String args[]){
+        String flower1="Rose";
+        String flower2="Lotus";
+        String flower3="Sunflower";
+        String flower4="Daisy";
+        System.out.println(flower1);
+        System.out.println(flower2);
+        System.out.println(flower3);
+        System.out.println(flower4);
+        
+                
+    }
+}
+    
